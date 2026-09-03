@@ -1,0 +1,13 @@
+Full Name,Email,Phone,City,Signup Date,Notes
+ John   Smith,john.smith@email.com,+91 98765 43210,Chennai,2024-01-15,VIP customer
+john smith,john.smith@email.com,9876543210,chennai,2024-01-15,
+JANE DOE,jane.doe@email.com,+91-98765-11223,Mumbai,2024-02-20,
+Jane Doe ,jane.doe@email.com,9876511223,Mumbai ,2024-02-20,Follow up needed
+Ravi Kumar,ravi.kumar@email.com,,Bengaluru,2024-03-05,
+Ravi  Kumar,ravi.k@email.com,+91 99887 76655,bengaluru,,Referred by John
+Priya Sharma,priya.sharma@email.com,+91 91234 56789,Delhi,2024-01-30,
+Amit Patel,amit.patel@email.com,+91 90000 11111,Ahmedabad,2024-04-11,
+Amit  Patel,amit.patel@email.com,9000011111,Ahmedabad,2024-04-11,Duplicate entry
+Sara Khan,sara.khan@email.com,,Hyderabad,2024-02-14,
+Vikram Singh,vikram.singh@email.com,+91 98111 22334,Jaipur,,VIP customer
+Neha Gupta,neha.gupta@email.com,+91 97000 55443,Pune,2024-03-22,

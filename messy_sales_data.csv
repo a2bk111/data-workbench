@@ -1,0 +1,11 @@
+Order ID,Customer,Product,Qty,Amount,Region
+1001,Suresh Traders,Widget A,10,5000,South
+1002,Kiran Enterprises,Widget B,5,,North
+1003,Suresh Traders,Widget A,10,5000,South
+1004,Meena Retail,Widget C,20,12000,West
+1005,,Widget A,8,4000,South
+1006,Kiran Enterprises,Widget B,5,2500,North
+1007,Ashok Distributors,Widget D,15,,East
+1008,Meena Retail,Widget C,20,12000,West
+1009,Ashok Distributors,Widget D,15,9000,East
+1010,Nandini Stores,Widget A,12,6000,South
